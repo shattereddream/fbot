@@ -1,0 +1,23 @@
+{
+  "name": "simplebot",
+  "version": "0.0.1",
+  "description": "Node.js with very simple app.",
+  "main": "server.js",
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shattereddream/fbot.git"
+  },
+  "author": "i dunno lol cos no one will own up to this buggy mess",
+  "license": "CC-BY-1.0",
+  "bugs": {
+    "url": "https://github.com/shattereddream/fbot/issues"
+  },
+  "homepage": "https://github.com/shattereddream/fbot"
+}
